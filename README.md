@@ -64,7 +64,9 @@ There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward 
 
 Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
 
-There is AI Service button on the top right of the screen to translate games (e.g. from japanese to english).
+There is a button in the top left of the screen to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
+
+There is AI Service button in the top right of the screen to translate games (e.g. from japanese to english).
 <b>NOTE: You must configure AI Service in RetroArch settings first.</b>
 
 There is a hidden button between A and B to easily press both of them at the same time.
@@ -73,7 +75,7 @@ There is a hidden button in the center of the speaker to press both L and R at t
 
 Another hidden button for taking screenshots is in the center of the gameplay screen.
 
-Touch the GameBoy Advance (or the Libretro RetroArch Logo if you use the alternative background) to make all function buttons invisible (they can stil be pressed)
+Touch the GameBoy Advance (or the Libretro RetroArch Logo if you use the alternative background) to make all function buttons invisible (they can stil be pressed), touch again to make them visible.
 
 # Donation
 If you like my work, please consider a small donation.
