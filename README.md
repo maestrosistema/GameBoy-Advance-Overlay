@@ -60,7 +60,7 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 All gameplay buttons (D-Pad, A, B, L, R Start and Select) are self explanatory. 
 
-There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
+There are Menu, Rewind (if enabled in RA settings), Slow Motion and Fast Forward buttons.
 
 Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
 
