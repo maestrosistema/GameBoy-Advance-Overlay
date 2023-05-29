@@ -1,14 +1,8 @@
 # GameBoy Advance Overlay
 
-# Overview
-
 ![My Image](ow.jpg)
 
-This is a GameBoy Advance overlay for RetroArch made for modern 21:9 (2400x1080) screen Android devices.
-
-To Do List:
-- Remake GameBoy Color version
-- Make GBA SP (for portrait) overlay
+This is a GameBoy Advance overlay for RetroArch, made for modern 21:9 (2400x1080) screen Android devices.
 
 I'm open to suggestions!
 
