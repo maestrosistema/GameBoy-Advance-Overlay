@@ -62,7 +62,7 @@ Near the Fast Forward button there is a switch to change between Hold and Toggle
 
 There is a button in the top left of the screen to switch between Digitl and Analog mode.
 
-On the right of the Digital/Analog button there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
+Next to the Digital/Analog button there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
 
 There is AI Service button in the top right of the screen to translate games (e.g. from japanese to english).
 <b>NOTE: You must configure AI Service in RetroArch settings first.</b>
