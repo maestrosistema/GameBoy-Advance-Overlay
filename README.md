@@ -54,7 +54,7 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 # Usage
 
-![My Image](usage.jpg)
+![My Image](usage.png)
 
 <b>NOTE: Rewind and AI Service must be configured in RA settings to make them work in the overlay!</b>
 
