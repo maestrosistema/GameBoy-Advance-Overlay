@@ -2,6 +2,8 @@
 
 ![My Image](ow.jpg)
 
+![My Image](ow_2.jpg)
+
 This is a GameBoy Advance overlay for RetroArch, made for modern 21:9 (2400x1080) screen Android devices.
 
 I'm open to suggestions!
@@ -58,7 +60,9 @@ There are Menu, Rewind (if enabled in RA settings), Slow Motion and Fast Forward
 
 Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
 
-There is a button in the top left of the screen to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
+There is a button in the top left of the screen to switch between Digitl and Analog mode.
+
+On the right of the Digital/Analog button there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
 
 There is AI Service button in the top right of the screen to translate games (e.g. from japanese to english).
 <b>NOTE: You must configure AI Service in RetroArch settings first.</b>
