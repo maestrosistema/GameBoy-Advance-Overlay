@@ -30,7 +30,7 @@ I'm open to suggestions!
 <b>On-Screen Display -> On-Scren Overlay:</b>
 - Display Overlay <b>"ON"</b>
 - Auto-Scale Overlay <b>"OFF"</b>
-- Overlay Preset <b>"gba"</b> (Select the <b>gba.cfg</b> file found in <b>gba</b> folder)
+- Overlay Preset <b>"gba"</b> (Select the <b>gba.cfg</b> or <b>gba_alt.cfg"</b> file found in <b>gba</b> folder)
 - Overlay Opacity <b>"1.00"</b>
 - (Landscape) Overlay Scale <b>"1.000"</b>
   
