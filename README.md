@@ -2,9 +2,7 @@
 
 ![My Image](ow.jpg)
 
-![My Image](ow_2.jpg)
-
-This is a GameBoy Advance overlay for RetroArch, made for modern 21:9 (2400x1080) screen Android devices.
+This is a GameBoy Advance overlay for RetroArch, made for modern 20:9 (2400x1080) screen Android devices.
 
 I'm open to suggestions!
 
@@ -39,7 +37,7 @@ I'm open to suggestions!
 <b>5.</b> Play!
 
 <b>NOTE:</b>
-<b>THESE SETTINGS ARE OPTIMAL FOR 21:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK SOME SETTINGS.</b>
+<b>THESE SETTINGS ARE OPTIMAL FOR 20:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK SOME SETTINGS.</b>
   
 <b>Optional Settings:</b>
   
